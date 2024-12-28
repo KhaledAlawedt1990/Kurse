@@ -1,0 +1,7 @@
+C:\Users\khale\source\repos\DataAdapterConsole\bin\Debug\DataAdapterConsole.exe.config
+C:\Users\khale\source\repos\DataAdapterConsole\bin\Debug\DataAdapterConsole.exe
+C:\Users\khale\source\repos\DataAdapterConsole\bin\Debug\DataAdapterConsole.pdb
+C:\Users\khale\source\repos\DataAdapterConsole\obj\Debug\DataAdapterConsole.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\DataAdapterConsole\obj\Debug\DataAdapterConsole.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\DataAdapterConsole\obj\Debug\DataAdapterConsole.exe
+C:\Users\khale\source\repos\DataAdapterConsole\obj\Debug\DataAdapterConsole.pdb

@@ -1,0 +1,15 @@
+C:\Users\khale\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\khale\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\khale\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\khale\source\repos\WindowsFormsApp4\bin\Debug\MyFirstClassLibrary.dll
+C:\Users\khale\source\repos\WindowsFormsApp4\bin\Debug\MyFirstClassLibrary.pdb
+C:\Users\khale\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\khale\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\khale\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\khale\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\WindowsFormsApp4\obj\Debug\WindowsF.D9406B00.Up2Date
+C:\Users\khale\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\khale\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\khale\source\repos\WindowsFormsApp4\bin\Debug\MySecondClassLibrary.dll
+C:\Users\khale\source\repos\WindowsFormsApp4\bin\Debug\MySecondClassLibrary.pdb

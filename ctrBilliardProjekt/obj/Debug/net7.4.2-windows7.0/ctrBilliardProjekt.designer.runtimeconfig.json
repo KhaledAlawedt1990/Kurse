@@ -1,0 +1,12 @@
+{
+  "runtimeOptions": {
+    "tfm": "net7.4.2",
+    "additionalProbingPaths": [
+      "C:\\Users\\khale\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}

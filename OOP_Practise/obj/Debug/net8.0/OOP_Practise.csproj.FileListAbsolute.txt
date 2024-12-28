@@ -1,0 +1,14 @@
+C:\Users\khale\source\repos\OOP_Practise\bin\Debug\net8.0\OOP_Practise.exe
+C:\Users\khale\source\repos\OOP_Practise\bin\Debug\net8.0\OOP_Practise.deps.json
+C:\Users\khale\source\repos\OOP_Practise\bin\Debug\net8.0\OOP_Practise.runtimeconfig.json
+C:\Users\khale\source\repos\OOP_Practise\bin\Debug\net8.0\OOP_Practise.dll
+C:\Users\khale\source\repos\OOP_Practise\bin\Debug\net8.0\OOP_Practise.pdb
+C:\Users\khale\source\repos\OOP_Practise\obj\Debug\net8.0\OOP_Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\OOP_Practise\obj\Debug\net8.0\OOP_Practise.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\OOP_Practise\obj\Debug\net8.0\OOP_Practise.AssemblyInfo.cs
+C:\Users\khale\source\repos\OOP_Practise\obj\Debug\net8.0\OOP_Practise.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\OOP_Practise\obj\Debug\net8.0\OOP_Practise.dll
+C:\Users\khale\source\repos\OOP_Practise\obj\Debug\net8.0\refint\OOP_Practise.dll
+C:\Users\khale\source\repos\OOP_Practise\obj\Debug\net8.0\OOP_Practise.pdb
+C:\Users\khale\source\repos\OOP_Practise\obj\Debug\net8.0\OOP_Practise.genruntimeconfig.cache
+C:\Users\khale\source\repos\OOP_Practise\obj\Debug\net8.0\ref\OOP_Practise.dll

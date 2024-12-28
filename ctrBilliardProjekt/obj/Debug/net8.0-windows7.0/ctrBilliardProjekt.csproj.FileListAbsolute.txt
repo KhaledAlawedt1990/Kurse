@@ -1,0 +1,14 @@
+C:\Users\khale\source\repos\ctrBilliardProjekt\bin\Debug\net8.0-windows7.0\ctrBilliardProjekt.deps.json
+C:\Users\khale\source\repos\ctrBilliardProjekt\bin\Debug\net8.0-windows7.0\ctrBilliardProjekt.dll
+C:\Users\khale\source\repos\ctrBilliardProjekt\bin\Debug\net8.0-windows7.0\ctrBilliardProjekt.pdb
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\ctrBilliardProjekt.Properties.Resources.resources
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\ctrBilliardProjekt.UserControl1.resources
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\ctrBilliardProjekt.csproj.GenerateResource.cache
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\ctrBilliardProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\ctrBilliardProjekt.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\ctrBilliardProjekt.AssemblyInfo.cs
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\ctrBilliardProjekt.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\ctrBilliardProjekt.dll
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\refint\ctrBilliardProjekt.dll
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\ctrBilliardProjekt.pdb
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net8.0-windows7.0\ref\ctrBilliardProjekt.dll

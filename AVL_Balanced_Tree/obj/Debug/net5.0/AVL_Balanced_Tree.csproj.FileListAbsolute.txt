@@ -1,0 +1,15 @@
+C:\Users\khale\source\repos\AVL_Balanced_Tree\bin\Debug\net5.0\AVL_Balanced_Tree.exe
+C:\Users\khale\source\repos\AVL_Balanced_Tree\bin\Debug\net5.0\AVL_Balanced_Tree.deps.json
+C:\Users\khale\source\repos\AVL_Balanced_Tree\bin\Debug\net5.0\AVL_Balanced_Tree.runtimeconfig.json
+C:\Users\khale\source\repos\AVL_Balanced_Tree\bin\Debug\net5.0\AVL_Balanced_Tree.runtimeconfig.dev.json
+C:\Users\khale\source\repos\AVL_Balanced_Tree\bin\Debug\net5.0\AVL_Balanced_Tree.dll
+C:\Users\khale\source\repos\AVL_Balanced_Tree\bin\Debug\net5.0\AVL_Balanced_Tree.pdb
+C:\Users\khale\source\repos\AVL_Balanced_Tree\obj\Debug\net5.0\AVL_Balanced_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\AVL_Balanced_Tree\obj\Debug\net5.0\AVL_Balanced_Tree.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\AVL_Balanced_Tree\obj\Debug\net5.0\AVL_Balanced_Tree.AssemblyInfo.cs
+C:\Users\khale\source\repos\AVL_Balanced_Tree\obj\Debug\net5.0\AVL_Balanced_Tree.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\AVL_Balanced_Tree\obj\Debug\net5.0\AVL_Balanced_Tree.dll
+C:\Users\khale\source\repos\AVL_Balanced_Tree\obj\Debug\net5.0\refint\AVL_Balanced_Tree.dll
+C:\Users\khale\source\repos\AVL_Balanced_Tree\obj\Debug\net5.0\AVL_Balanced_Tree.pdb
+C:\Users\khale\source\repos\AVL_Balanced_Tree\obj\Debug\net5.0\AVL_Balanced_Tree.genruntimeconfig.cache
+C:\Users\khale\source\repos\AVL_Balanced_Tree\obj\Debug\net5.0\ref\AVL_Balanced_Tree.dll

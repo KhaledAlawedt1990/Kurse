@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTkkb8MadKpRbwv2slhcb1b+g5NKAf6YWcnDqJqAEFDi7rJKuP6tfwDOQCnZKRRiZhuZ04R5rWmfrNoeiVns3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khale\\source\\repos\\Reflection\\Reflection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khale\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\khale\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\khale\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

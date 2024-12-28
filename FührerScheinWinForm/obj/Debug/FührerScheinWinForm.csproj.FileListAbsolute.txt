@@ -1,0 +1,12 @@
+C:\Users\khale\source\repos\FührerScheinWinForm\bin\Debug\FührerScheinWinForm.exe.config
+C:\Users\khale\source\repos\FührerScheinWinForm\bin\Debug\FührerScheinWinForm.exe
+C:\Users\khale\source\repos\FührerScheinWinForm\bin\Debug\FührerScheinWinForm.pdb
+C:\Users\khale\source\repos\FührerScheinWinForm\obj\Debug\FührerScheinWinForm.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\FührerScheinWinForm\obj\Debug\FührerScheinWinForm.frmUpdate_AddNewPerson.resources
+C:\Users\khale\source\repos\FührerScheinWinForm\obj\Debug\FührerScheinWinForm.Properties.Resources.resources
+C:\Users\khale\source\repos\FührerScheinWinForm\obj\Debug\FührerScheinWinForm.UserControl_UpdateAddNewPerson.resources
+C:\Users\khale\source\repos\FührerScheinWinForm\obj\Debug\FührerScheinWinForm.csproj.GenerateResource.cache
+C:\Users\khale\source\repos\FührerScheinWinForm\obj\Debug\FührerScheinWinForm.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\FührerScheinWinForm\obj\Debug\FührerScheinWinForm.exe
+C:\Users\khale\source\repos\FührerScheinWinForm\obj\Debug\FührerScheinWinForm.pdb
+C:\Users\khale\source\repos\FührerScheinWinForm\obj\Debug\FührerScheinWinForm.UserControl1.resources

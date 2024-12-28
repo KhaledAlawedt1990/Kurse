@@ -1,0 +1,15 @@
+C:\Users\khale\source\repos\WIEDERHOLUNG\bin\Debug\net5.0\WIEDERHOLUNG.exe
+C:\Users\khale\source\repos\WIEDERHOLUNG\bin\Debug\net5.0\WIEDERHOLUNG.deps.json
+C:\Users\khale\source\repos\WIEDERHOLUNG\bin\Debug\net5.0\WIEDERHOLUNG.runtimeconfig.json
+C:\Users\khale\source\repos\WIEDERHOLUNG\bin\Debug\net5.0\WIEDERHOLUNG.runtimeconfig.dev.json
+C:\Users\khale\source\repos\WIEDERHOLUNG\bin\Debug\net5.0\WIEDERHOLUNG.dll
+C:\Users\khale\source\repos\WIEDERHOLUNG\bin\Debug\net5.0\WIEDERHOLUNG.pdb
+C:\Users\khale\source\repos\WIEDERHOLUNG\obj\Debug\net5.0\WIEDERHOLUNG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\WIEDERHOLUNG\obj\Debug\net5.0\WIEDERHOLUNG.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\WIEDERHOLUNG\obj\Debug\net5.0\WIEDERHOLUNG.AssemblyInfo.cs
+C:\Users\khale\source\repos\WIEDERHOLUNG\obj\Debug\net5.0\WIEDERHOLUNG.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\WIEDERHOLUNG\obj\Debug\net5.0\WIEDERHOLUNG.dll
+C:\Users\khale\source\repos\WIEDERHOLUNG\obj\Debug\net5.0\refint\WIEDERHOLUNG.dll
+C:\Users\khale\source\repos\WIEDERHOLUNG\obj\Debug\net5.0\WIEDERHOLUNG.pdb
+C:\Users\khale\source\repos\WIEDERHOLUNG\obj\Debug\net5.0\WIEDERHOLUNG.genruntimeconfig.cache
+C:\Users\khale\source\repos\WIEDERHOLUNG\obj\Debug\net5.0\ref\WIEDERHOLUNG.dll

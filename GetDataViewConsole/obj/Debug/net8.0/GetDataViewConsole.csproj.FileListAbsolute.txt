@@ -1,0 +1,14 @@
+C:\Users\khale\source\repos\GetDataViewConsole\bin\Debug\net8.0\GetDataViewConsole.exe
+C:\Users\khale\source\repos\GetDataViewConsole\bin\Debug\net8.0\GetDataViewConsole.deps.json
+C:\Users\khale\source\repos\GetDataViewConsole\bin\Debug\net8.0\GetDataViewConsole.runtimeconfig.json
+C:\Users\khale\source\repos\GetDataViewConsole\bin\Debug\net8.0\GetDataViewConsole.dll
+C:\Users\khale\source\repos\GetDataViewConsole\bin\Debug\net8.0\GetDataViewConsole.pdb
+C:\Users\khale\source\repos\GetDataViewConsole\obj\Debug\net8.0\GetDataViewConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\GetDataViewConsole\obj\Debug\net8.0\GetDataViewConsole.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\GetDataViewConsole\obj\Debug\net8.0\GetDataViewConsole.AssemblyInfo.cs
+C:\Users\khale\source\repos\GetDataViewConsole\obj\Debug\net8.0\GetDataViewConsole.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\GetDataViewConsole\obj\Debug\net8.0\GetDataViewConsole.dll
+C:\Users\khale\source\repos\GetDataViewConsole\obj\Debug\net8.0\refint\GetDataViewConsole.dll
+C:\Users\khale\source\repos\GetDataViewConsole\obj\Debug\net8.0\GetDataViewConsole.pdb
+C:\Users\khale\source\repos\GetDataViewConsole\obj\Debug\net8.0\GetDataViewConsole.genruntimeconfig.cache
+C:\Users\khale\source\repos\GetDataViewConsole\obj\Debug\net8.0\ref\GetDataViewConsole.dll

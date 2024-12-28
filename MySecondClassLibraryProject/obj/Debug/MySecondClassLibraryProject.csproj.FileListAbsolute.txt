@@ -1,0 +1,10 @@
+C:\Users\khale\source\repos\MySecondClassLibraryProject\bin\Debug\MySecondClassLibraryProject.exe.config
+C:\Users\khale\source\repos\MySecondClassLibraryProject\bin\Debug\MySecondClassLibraryProject.exe
+C:\Users\khale\source\repos\MySecondClassLibraryProject\bin\Debug\MySecondClassLibraryProject.pdb
+C:\Users\khale\source\repos\MySecondClassLibraryProject\bin\Debug\MySecondClassLibrary.dll
+C:\Users\khale\source\repos\MySecondClassLibraryProject\bin\Debug\MySecondClassLibrary.pdb
+C:\Users\khale\source\repos\MySecondClassLibraryProject\obj\Debug\MySecondClassLibraryProject.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\MySecondClassLibraryProject\obj\Debug\MySecondClassLibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\MySecondClassLibraryProject\obj\Debug\MySecond.33426248.Up2Date
+C:\Users\khale\source\repos\MySecondClassLibraryProject\obj\Debug\MySecondClassLibraryProject.exe
+C:\Users\khale\source\repos\MySecondClassLibraryProject\obj\Debug\MySecondClassLibraryProject.pdb

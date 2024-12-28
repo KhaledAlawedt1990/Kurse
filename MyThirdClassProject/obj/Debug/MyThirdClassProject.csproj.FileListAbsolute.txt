@@ -1,0 +1,10 @@
+C:\Users\khale\source\repos\MyThirdClassProject\bin\Debug\MyThirdClassProject.exe.config
+C:\Users\khale\source\repos\MyThirdClassProject\bin\Debug\MyThirdClassProject.exe
+C:\Users\khale\source\repos\MyThirdClassProject\bin\Debug\MyThirdClassProject.pdb
+C:\Users\khale\source\repos\MyThirdClassProject\bin\Debug\MySecondClassLibrary.dll
+C:\Users\khale\source\repos\MyThirdClassProject\bin\Debug\MySecondClassLibrary.pdb
+C:\Users\khale\source\repos\MyThirdClassProject\obj\Debug\MyThirdClassProject.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\MyThirdClassProject\obj\Debug\MyThirdClassProject.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\MyThirdClassProject\obj\Debug\MyThirdC.3350303C.Up2Date
+C:\Users\khale\source\repos\MyThirdClassProject\obj\Debug\MyThirdClassProject.exe
+C:\Users\khale\source\repos\MyThirdClassProject\obj\Debug\MyThirdClassProject.pdb

@@ -1,0 +1,14 @@
+C:\Users\khale\source\repos\ConsoleApp1\bin\Debug\net8.0\TemperaturChangedEventAg.exe
+C:\Users\khale\source\repos\ConsoleApp1\bin\Debug\net8.0\TemperaturChangedEventAg.deps.json
+C:\Users\khale\source\repos\ConsoleApp1\bin\Debug\net8.0\TemperaturChangedEventAg.runtimeconfig.json
+C:\Users\khale\source\repos\ConsoleApp1\bin\Debug\net8.0\TemperaturChangedEventAg.dll
+C:\Users\khale\source\repos\ConsoleApp1\bin\Debug\net8.0\TemperaturChangedEventAg.pdb
+C:\Users\khale\source\repos\ConsoleApp1\obj\Debug\net8.0\TemperaturChangedEventAg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\ConsoleApp1\obj\Debug\net8.0\TemperaturChangedEventAg.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\ConsoleApp1\obj\Debug\net8.0\TemperaturChangedEventAg.AssemblyInfo.cs
+C:\Users\khale\source\repos\ConsoleApp1\obj\Debug\net8.0\TemperaturChangedEventAg.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\ConsoleApp1\obj\Debug\net8.0\TemperaturChangedEventAg.dll
+C:\Users\khale\source\repos\ConsoleApp1\obj\Debug\net8.0\refint\TemperaturChangedEventAg.dll
+C:\Users\khale\source\repos\ConsoleApp1\obj\Debug\net8.0\TemperaturChangedEventAg.pdb
+C:\Users\khale\source\repos\ConsoleApp1\obj\Debug\net8.0\TemperaturChangedEventAg.genruntimeconfig.cache
+C:\Users\khale\source\repos\ConsoleApp1\obj\Debug\net8.0\ref\TemperaturChangedEventAg.dll

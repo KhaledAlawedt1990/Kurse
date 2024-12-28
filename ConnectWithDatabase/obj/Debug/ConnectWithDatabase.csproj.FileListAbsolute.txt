@@ -1,0 +1,7 @@
+C:\Users\khale\source\repos\ConnectWithDatabase\bin\Debug\ConnectWithDatabase.exe.config
+C:\Users\khale\source\repos\ConnectWithDatabase\bin\Debug\ConnectWithDatabase.exe
+C:\Users\khale\source\repos\ConnectWithDatabase\bin\Debug\ConnectWithDatabase.pdb
+C:\Users\khale\source\repos\ConnectWithDatabase\obj\Debug\ConnectWithDatabase.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\ConnectWithDatabase\obj\Debug\ConnectWithDatabase.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\ConnectWithDatabase\obj\Debug\ConnectWithDatabase.exe
+C:\Users\khale\source\repos\ConnectWithDatabase\obj\Debug\ConnectWithDatabase.pdb

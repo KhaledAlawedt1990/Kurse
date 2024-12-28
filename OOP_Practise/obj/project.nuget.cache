@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8MrSzrVtlqP4NhtrnmWtnQCODsF6LIh9S61SEtSov0sAPK98aMx84r8ec/7ReHzw08CO1mGvQBNl9wxbClu6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khale\\source\\repos\\OOP_Practise\\OOP_Practise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khale\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\khale\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\khale\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

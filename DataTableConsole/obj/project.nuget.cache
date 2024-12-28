@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bW0Iu7YgCLVH6SH+BtEFORnGASqpCOV15RU2it3+8xR47/dCQCBrsxWdjR5SQiyxlQX/6/KDpsSSFrI4XE7WuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khale\\source\\repos\\DataTableConsole\\DataTableConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khale\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\khale\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\khale\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

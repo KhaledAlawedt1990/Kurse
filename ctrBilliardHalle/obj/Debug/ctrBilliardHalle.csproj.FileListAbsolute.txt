@@ -1,0 +1,9 @@
+C:\Users\khale\source\repos\ctrBilliardHalle\bin\Debug\ctrBilliardHalle.dll
+C:\Users\khale\source\repos\ctrBilliardHalle\bin\Debug\ctrBilliardHalle.pdb
+C:\Users\khale\source\repos\ctrBilliardHalle\obj\Debug\ctrBilliardHalle.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\ctrBilliardHalle\obj\Debug\ctrBilliardHalle.UserControl1.resources
+C:\Users\khale\source\repos\ctrBilliardHalle\obj\Debug\ctrBilliardHalle.csproj.GenerateResource.cache
+C:\Users\khale\source\repos\ctrBilliardHalle\obj\Debug\ctrBilliardHalle.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\ctrBilliardHalle\obj\Debug\ctrBilliardHalle.dll
+C:\Users\khale\source\repos\ctrBilliardHalle\obj\Debug\ctrBilliardHalle.pdb
+C:\Users\khale\source\repos\ctrBilliardHalle\obj\Debug\ctrBilliardHalle.Properties.Resources.resources

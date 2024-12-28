@@ -1,0 +1,14 @@
+C:\Users\khale\source\repos\DataTableConsole\obj\Debug\net8.0\DataTableConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\DataTableConsole\obj\Debug\net8.0\DataTableConsole.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\DataTableConsole\obj\Debug\net8.0\DataTableConsole.AssemblyInfo.cs
+C:\Users\khale\source\repos\DataTableConsole\obj\Debug\net8.0\DataTableConsole.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\DataTableConsole\bin\Debug\net8.0\DataTableConsole.exe
+C:\Users\khale\source\repos\DataTableConsole\bin\Debug\net8.0\DataTableConsole.deps.json
+C:\Users\khale\source\repos\DataTableConsole\bin\Debug\net8.0\DataTableConsole.runtimeconfig.json
+C:\Users\khale\source\repos\DataTableConsole\bin\Debug\net8.0\DataTableConsole.dll
+C:\Users\khale\source\repos\DataTableConsole\bin\Debug\net8.0\DataTableConsole.pdb
+C:\Users\khale\source\repos\DataTableConsole\obj\Debug\net8.0\DataTableConsole.dll
+C:\Users\khale\source\repos\DataTableConsole\obj\Debug\net8.0\refint\DataTableConsole.dll
+C:\Users\khale\source\repos\DataTableConsole\obj\Debug\net8.0\DataTableConsole.pdb
+C:\Users\khale\source\repos\DataTableConsole\obj\Debug\net8.0\DataTableConsole.genruntimeconfig.cache
+C:\Users\khale\source\repos\DataTableConsole\obj\Debug\net8.0\ref\DataTableConsole.dll

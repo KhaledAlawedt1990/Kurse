@@ -1,0 +1,6 @@
+C:\Users\khale\source\repos\MyFirstClassLibrary\bin\Debug\MyFirstClassLibrary.dll
+C:\Users\khale\source\repos\MyFirstClassLibrary\bin\Debug\MyFirstClassLibrary.pdb
+C:\Users\khale\source\repos\MyFirstClassLibrary\obj\Debug\MyFirstClassLibrary.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\MyFirstClassLibrary\obj\Debug\MyFirstClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\MyFirstClassLibrary\obj\Debug\MyFirstClassLibrary.dll
+C:\Users\khale\source\repos\MyFirstClassLibrary\obj\Debug\MyFirstClassLibrary.pdb

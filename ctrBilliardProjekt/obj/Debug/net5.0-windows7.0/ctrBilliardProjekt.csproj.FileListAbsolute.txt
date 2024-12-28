@@ -1,0 +1,7 @@
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net5.0-windows7.0\ctrBilliardProjekt.Properties.Resources.resources
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net5.0-windows7.0\ctrBilliardProjekt.UserControl1.resources
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net5.0-windows7.0\ctrBilliardProjekt.csproj.GenerateResource.cache
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net5.0-windows7.0\ctrBilliardProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net5.0-windows7.0\ctrBilliardProjekt.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net5.0-windows7.0\ctrBilliardProjekt.AssemblyInfo.cs
+C:\Users\khale\source\repos\ctrBilliardProjekt\obj\Debug\net5.0-windows7.0\ctrBilliardProjekt.csproj.CoreCompileInputs.cache

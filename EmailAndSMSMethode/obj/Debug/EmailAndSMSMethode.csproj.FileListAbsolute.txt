@@ -1,0 +1,10 @@
+C:\Users\khale\source\repos\EmailAndSMSMethode\obj\Debug\EmailAndSMSMethode.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\EmailAndSMSMethode\obj\Debug\EmailAndSMSMethode.Properties.Resources.resources
+C:\Users\khale\source\repos\EmailAndSMSMethode\obj\Debug\EmailAndSMSMethode.csproj.GenerateResource.cache
+C:\Users\khale\source\repos\EmailAndSMSMethode\obj\Debug\EmailAndSMSMethode.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\EmailAndSMSMethode\bin\Debug\EmailAndSMSMethode.exe.config
+C:\Users\khale\source\repos\EmailAndSMSMethode\bin\Debug\EmailAndSMSMethode.exe
+C:\Users\khale\source\repos\EmailAndSMSMethode\bin\Debug\EmailAndSMSMethode.pdb
+C:\Users\khale\source\repos\EmailAndSMSMethode\obj\Debug\EmailAndSMSMethode.exe
+C:\Users\khale\source\repos\EmailAndSMSMethode\obj\Debug\EmailAndSMSMethode.pdb
+C:\Users\khale\source\repos\EmailAndSMSMethode\obj\Debug\EmailAndSMSMethode.frmSucheService.resources

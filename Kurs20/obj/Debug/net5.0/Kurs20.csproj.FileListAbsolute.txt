@@ -1,0 +1,15 @@
+C:\Users\khale\source\repos\Kurs20\bin\Debug\net5.0\Kurs20.exe
+C:\Users\khale\source\repos\Kurs20\bin\Debug\net5.0\Kurs20.deps.json
+C:\Users\khale\source\repos\Kurs20\bin\Debug\net5.0\Kurs20.runtimeconfig.json
+C:\Users\khale\source\repos\Kurs20\bin\Debug\net5.0\Kurs20.runtimeconfig.dev.json
+C:\Users\khale\source\repos\Kurs20\bin\Debug\net5.0\Kurs20.dll
+C:\Users\khale\source\repos\Kurs20\bin\Debug\net5.0\Kurs20.pdb
+C:\Users\khale\source\repos\Kurs20\obj\Debug\net5.0\Kurs20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\Kurs20\obj\Debug\net5.0\Kurs20.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\Kurs20\obj\Debug\net5.0\Kurs20.AssemblyInfo.cs
+C:\Users\khale\source\repos\Kurs20\obj\Debug\net5.0\Kurs20.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\Kurs20\obj\Debug\net5.0\Kurs20.dll
+C:\Users\khale\source\repos\Kurs20\obj\Debug\net5.0\refint\Kurs20.dll
+C:\Users\khale\source\repos\Kurs20\obj\Debug\net5.0\Kurs20.pdb
+C:\Users\khale\source\repos\Kurs20\obj\Debug\net5.0\Kurs20.genruntimeconfig.cache
+C:\Users\khale\source\repos\Kurs20\obj\Debug\net5.0\ref\Kurs20.dll

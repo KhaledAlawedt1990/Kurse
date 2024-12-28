@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qL+n66/iKzBdYo4a9AGhaD0RyrsRH/KUkklNAoxIWazinjfXct3PxfehwjZBv99uqPcr43sq7HoRE51mbQi/tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khale\\source\\repos\\GetDataViewConsole\\GetDataViewConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khale\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\khale\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\khale\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

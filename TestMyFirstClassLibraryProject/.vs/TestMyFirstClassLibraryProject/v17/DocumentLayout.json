@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khale\\source\\repos\\TestMyFirstClassLibraryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B646DE-C873-426E-AE93-79EB9DF72F8B}|..\\MyFirstClassLibrary\\MyFirstClassLibrary.csproj|c:\\users\\khale\\source\\repos\\myfirstclasslibrary\\clsrechenoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4673AD9-33E1-4AF5-BA3A-CA8C32A68F31}|TestMyFirstClassLibraryProject.csproj|c:\\users\\khale\\source\\repos\\testmyfirstclasslibraryproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4673AD9-33E1-4AF5-BA3A-CA8C32A68F31}|TestMyFirstClassLibraryProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khale\\source\\repos\\MyFirstClassLibrary\\clsMyMath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 475,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsRechenOperation.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\MyFirstClassLibrary\\clsRechenOperation.cs",
+              "RelativeDocumentMoniker": "..\\MyFirstClassLibrary\\clsRechenOperation.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\MyFirstClassLibrary\\clsRechenOperation.cs",
+              "RelativeToolTip": "..\\MyFirstClassLibrary\\clsRechenOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:18:24.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsMyMath.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\MyFirstClassLibrary\\clsMyMath.cs",
+              "RelativeDocumentMoniker": "..\\MyFirstClassLibrary\\clsMyMath.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\MyFirstClassLibrary\\clsMyMath.cs",
+              "RelativeToolTip": "..\\MyFirstClassLibrary\\clsMyMath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T13:58:54.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\TestMyFirstClassLibraryProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\TestMyFirstClassLibraryProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T13:55:56.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

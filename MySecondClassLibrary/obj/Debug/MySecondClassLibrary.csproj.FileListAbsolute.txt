@@ -1,0 +1,6 @@
+C:\Users\khale\source\repos\MySecondClassLibrary\bin\Debug\MySecondClassLibrary.dll
+C:\Users\khale\source\repos\MySecondClassLibrary\bin\Debug\MySecondClassLibrary.pdb
+C:\Users\khale\source\repos\MySecondClassLibrary\obj\Debug\MySecondClassLibrary.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\MySecondClassLibrary\obj\Debug\MySecondClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\MySecondClassLibrary\obj\Debug\MySecondClassLibrary.dll
+C:\Users\khale\source\repos\MySecondClassLibrary\obj\Debug\MySecondClassLibrary.pdb

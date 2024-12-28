@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khale\\source\\repos\\WindowsFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B646DE-C873-426E-AE93-79EB9DF72F8B}|..\\MyFirstClassLibrary\\MyFirstClassLibrary.csproj|c:\\users\\khale\\source\\repos\\myfirstclasslibrary\\clsrechenoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E009-BED0-40E3-9E04-E03878FDD5C3}|WindowsFormsApp4.csproj|C:\\Users\\khale\\source\\repos\\WindowsFormsApp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E009-BED0-40E3-9E04-E03878FDD5C3}|WindowsFormsApp4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C943C9A-5712-439E-B672-BC573C2775F3}|..\\MySecondClassLibrary\\MySecondClassLibrary.csproj|c:\\users\\khale\\source\\repos\\mysecondclasslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E009-BED0-40E3-9E04-E03878FDD5C3}|WindowsFormsApp4.csproj|C:\\Users\\khale\\source\\repos\\WindowsFormsApp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2327E009-BED0-40E3-9E04-E03878FDD5C3}|WindowsFormsApp4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khale\\AppData\\Local\\Temp\\e2740ffb-2a56-413e-a1c4-9d10530c1343_MyFirstClassLibrary.rar.343\\MyFirstClassLibrary\\clsMyMath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E009-BED0-40E3-9E04-E03878FDD5C3}|WindowsFormsApp4.csproj|C:\\Users\\khale\\source\\repos\\WindowsFormsApp4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E009-BED0-40E3-9E04-E03878FDD5C3}|WindowsFormsApp4.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\MySecondClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MySecondClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\MySecondClassLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\MySecondClassLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:48:59.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsMyMath.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\AppData\\Local\\Temp\\e2740ffb-2a56-413e-a1c4-9d10530c1343_MyFirstClassLibrary.rar.343\\MyFirstClassLibrary\\clsMyMath.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\e2740ffb-2a56-413e-a1c4-9d10530c1343_MyFirstClassLibrary.rar.343\\MyFirstClassLibrary\\clsMyMath.cs",
+              "ToolTip": "C:\\Users\\khale\\AppData\\Local\\Temp\\e2740ffb-2a56-413e-a1c4-9d10530c1343_MyFirstClassLibrary.rar.343\\MyFirstClassLibrary\\clsMyMath.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\e2740ffb-2a56-413e-a1c4-9d10530c1343_MyFirstClassLibrary.rar.343\\MyFirstClassLibrary\\clsMyMath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:07:46.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\WindowsFormsApp4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\WindowsFormsApp4\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T14:52:10.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsRechenOperation.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\MyFirstClassLibrary\\clsRechenOperation.cs",
+              "RelativeDocumentMoniker": "..\\MyFirstClassLibrary\\clsRechenOperation.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\MyFirstClassLibrary\\clsRechenOperation.cs",
+              "RelativeToolTip": "..\\MyFirstClassLibrary\\clsRechenOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T14:48:14.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\WindowsFormsApp4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T14:24:29.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\WindowsFormsApp4\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T14:23:47.694Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1097,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\khale\source\repos\BilliardHalle\bin\Debug\BilliardHalle.exe.config
+C:\Users\khale\source\repos\BilliardHalle\bin\Debug\BilliardHalle.exe
+C:\Users\khale\source\repos\BilliardHalle\bin\Debug\BilliardHalle.pdb
+C:\Users\khale\source\repos\BilliardHalle\obj\Debug\BilliardHalle.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\BilliardHalle\obj\Debug\BilliardHalle.Properties.Resources.resources
+C:\Users\khale\source\repos\BilliardHalle\obj\Debug\BilliardHalle.csproj.GenerateResource.cache
+C:\Users\khale\source\repos\BilliardHalle\obj\Debug\BilliardHalle.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\BilliardHalle\obj\Debug\BilliardHalle.exe
+C:\Users\khale\source\repos\BilliardHalle\obj\Debug\BilliardHalle.pdb
+C:\Users\khale\source\repos\BilliardHalle\obj\Debug\BilliardHalle.Form1.resources
+C:\Users\khale\source\repos\BilliardHalle\bin\Debug\ctrBilliardHalle.dll
+C:\Users\khale\source\repos\BilliardHalle\bin\Debug\ctrBilliardHalle.pdb
+C:\Users\khale\source\repos\BilliardHalle\obj\Debug\Billiard.ADFAAA48.Up2Date

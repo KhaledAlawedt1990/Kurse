@@ -1,0 +1,14 @@
+C:\Users\khale\source\repos\ParallelClass\bin\Debug\net8.0\ParallelClass.exe
+C:\Users\khale\source\repos\ParallelClass\bin\Debug\net8.0\ParallelClass.deps.json
+C:\Users\khale\source\repos\ParallelClass\bin\Debug\net8.0\ParallelClass.runtimeconfig.json
+C:\Users\khale\source\repos\ParallelClass\bin\Debug\net8.0\ParallelClass.dll
+C:\Users\khale\source\repos\ParallelClass\bin\Debug\net8.0\ParallelClass.pdb
+C:\Users\khale\source\repos\ParallelClass\obj\Debug\net8.0\ParallelClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\ParallelClass\obj\Debug\net8.0\ParallelClass.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\ParallelClass\obj\Debug\net8.0\ParallelClass.AssemblyInfo.cs
+C:\Users\khale\source\repos\ParallelClass\obj\Debug\net8.0\ParallelClass.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\ParallelClass\obj\Debug\net8.0\ParallelClass.dll
+C:\Users\khale\source\repos\ParallelClass\obj\Debug\net8.0\refint\ParallelClass.dll
+C:\Users\khale\source\repos\ParallelClass\obj\Debug\net8.0\ParallelClass.pdb
+C:\Users\khale\source\repos\ParallelClass\obj\Debug\net8.0\ParallelClass.genruntimeconfig.cache
+C:\Users\khale\source\repos\ParallelClass\obj\Debug\net8.0\ref\ParallelClass.dll

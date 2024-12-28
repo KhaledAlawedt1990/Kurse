@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\PC1990\\Users\\khale\\source\\repos\\ContactsConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{831081D6-DD45-4035-832C-F26C3257207D}|ContactsConsoleApp.csproj|\\\\pc1990\\users\\khale\\source\\repos\\contactsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khale\\source\\repos\\ContactsBusinessLayer\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khale\\source\\repos\\ContactsDataAccessLayer\\ContactData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khale\\source\\repos\\ContactsDataAccessLayer\\MyConnectionWithServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 176,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 149,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 422,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\ContactsBusinessLayer\\Contact.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\ContactsBusinessLayer\\Contact.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAE4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:24:48.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\PC1990\\Users\\khale\\source\\repos\\ContactsConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "\\\\PC1990\\Users\\khale\\source\\repos\\ContactsConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowHgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:25:22.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactData.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\ContactsDataAccessLayer\\ContactData.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\ContactsDataAccessLayer\\ContactData.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAAAOMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:22:45.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyConnectionWithServer.cs",
+              "DocumentMoniker": "C:\\Users\\khale\\source\\repos\\ContactsDataAccessLayer\\MyConnectionWithServer.cs",
+              "ToolTip": "C:\\Users\\khale\\source\\repos\\ContactsDataAccessLayer\\MyConnectionWithServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:17:26.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

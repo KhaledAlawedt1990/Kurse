@@ -1,0 +1,4 @@
+C:\Users\khale\source\repos\EventLog\obj\Debug\net8.0\EventLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\EventLog\obj\Debug\net8.0\EventLog.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\EventLog\obj\Debug\net8.0\EventLog.AssemblyInfo.cs
+C:\Users\khale\source\repos\EventLog\obj\Debug\net8.0\EventLog.csproj.CoreCompileInputs.cache

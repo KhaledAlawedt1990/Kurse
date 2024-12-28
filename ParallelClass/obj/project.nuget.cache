@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sPPvqPzem+8pav0pDYdtBNNt6VOcXrxFpQ9rwMWM3xYmR2O/bNWXN3DH4aGluDsSsF983IZdfOylZWZbMC88rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khale\\source\\repos\\ParallelClass\\ParallelClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khale\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\khale\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\khale\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
