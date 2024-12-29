@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Reflection.PortableExecutable;
 using System.Runtime.CompilerServices;
+using System.Xml;
 using System.Xml.Linq;
+using System.Xml.Serialization;
 
 
 namespace Kurs20
@@ -160,12 +162,41 @@ namespace Kurs20
             else
                 Console.WriteLine("Age is: " + age.Value); 
         }
+
+        static void SerializationAndDeserialization(Person person)
+        {
+
+            XmlSerializer serializer = new XmlSerializer(typeof(Person));
+            using(TextWriter writer = new StreamWriter("person.xml"))
+            {
+                serializer.Serialize(writer, person);
+            }
+
+            using(TextReader reader = new StreamReader("person.xml"))
+            {
+                Person deserializer = (Person)serializer.Deserialize(reader);
+                Console.WriteLine($"Name: {deserializer.name} \nAge: {deserializer.age} \nAktuelles Datum: {deserializer.currentDate}");
+            }
+        }
         static void Main(string[] args)
         {
-            Procedure(null, 33);
+            Person person = new Person
+            {
+                name = "Khaled Alawedat",
+                age = 34,
+                currentDate = DateTime.Now
+            };
 
+            SerializationAndDeserialization(person);
             Console.ReadKey();
         }
 
+    }
+
+    public class Person
+    {
+        public string name { get; set; }
+        public int age { get; set; }
+        public DateTime currentDate { get; set; }
     }
 }

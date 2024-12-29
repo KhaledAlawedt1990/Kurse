@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khale\\source\\repos\\Kurs20\\Kurs20.csproj": {}
+    "C:\\Users\\khale\\Desktop\\Kurse\\Kurs20\\Kurs20.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khale\\source\\repos\\Kurs20\\Kurs20.csproj": {
+    "C:\\Users\\khale\\Desktop\\Kurse\\Kurs20\\Kurs20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khale\\source\\repos\\Kurs20\\Kurs20.csproj",
+        "projectUniqueName": "C:\\Users\\khale\\Desktop\\Kurse\\Kurs20\\Kurs20.csproj",
         "projectName": "Kurs20",
-        "projectPath": "C:\\Users\\khale\\source\\repos\\Kurs20\\Kurs20.csproj",
+        "projectPath": "C:\\Users\\khale\\Desktop\\Kurse\\Kurs20\\Kurs20.csproj",
         "packagesPath": "C:\\Users\\khale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khale\\source\\repos\\Kurs20\\obj\\",
+        "outputPath": "C:\\Users\\khale\\Desktop\\Kurse\\Kurs20\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khale\\AppData\\Roaming\\NuGet\\NuGet.Config",

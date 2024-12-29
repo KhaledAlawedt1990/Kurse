@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Khaled Alawedat</name>
+  <age>34</age>
+  <currentDate>2024-12-29T11:11:46.4468473+01:00</currentDate>
+</Person>
