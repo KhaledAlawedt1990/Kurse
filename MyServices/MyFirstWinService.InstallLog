@@ -1,0 +1,13 @@
+﻿Assembly C:\Users\Hamssa\Desktop\Kurse\MyServices\MyFirstWinService.exe wird installiert.
+Betroffene Parameter:
+   logtoconsole = 
+   assemblypath = C:\Users\Hamssa\Desktop\Kurse\MyServices\MyFirstWinService.exe
+   logfile = C:\Users\Hamssa\Desktop\Kurse\MyServices\MyFirstWinService.InstallLog
+Dienst MyFirstWinService wird installiert...
+Dienst MyFirstWinService wurde installiert.
+Die EventLog-Quelle MyFirstWinService im Protokoll Application wird erstellt...
+Assembly C:\Users\Hamssa\Desktop\Kurse\MyServices\MyFirstWinService.exe wird ausgeführt.
+Betroffene Parameter:
+   logtoconsole = 
+   assemblypath = C:\Users\Hamssa\Desktop\Kurse\MyServices\MyFirstWinService.exe
+   logfile = C:\Users\Hamssa\Desktop\Kurse\MyServices\MyFirstWinService.InstallLog

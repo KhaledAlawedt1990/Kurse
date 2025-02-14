@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\khale\\Desktop\\Kurse\\Kurs20\\",
+  "WorkspaceRootPath": "C:\\Users\\Hamssa\\Desktop\\Kurse\\Kurs20\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FE0EF66-5D28-4009-B388-85DD5ABC7BB1}|Kurs20.csproj|c:\\users\\khale\\desktop\\kurse\\kurs20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FE0EF66-5D28-4009-B388-85DD5ABC7BB1}|Kurs20.csproj|c:\\users\\hamssa\\desktop\\kurse\\kurs20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FE0EF66-5D28-4009-B388-85DD5ABC7BB1}|Kurs20.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,14 +18,6 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -33,16 +25,24 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\khale\\Desktop\\Kurse\\Kurs20\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hamssa\\Desktop\\Kurse\\Kurs20\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\khale\\Desktop\\Kurse\\Kurs20\\Program.cs",
+              "ToolTip": "C:\\Users\\Hamssa\\Desktop\\Kurse\\Kurs20\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAKMAAAAAAAAAAAAAAL8AAAAJAAAA",
+              "ViewState": "AgIAALsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:19:48.175Z",
+              "WhenOpened": "2025-02-14T09:35:03.881Z",
               "EditorCaption": ""
             }
           ]
@@ -53,7 +53,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

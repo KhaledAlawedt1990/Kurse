@@ -1,0 +1,15 @@
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\obj\Debug\net8.0\Kurse23_DataStruktur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\obj\Debug\net8.0\Kurse23_DataStruktur.AssemblyInfoInputs.cache
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\obj\Debug\net8.0\Kurse23_DataStruktur.AssemblyInfo.cs
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\obj\Debug\net8.0\Kurse23_DataStruktur.csproj.CoreCompileInputs.cache
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\obj\Debug\net8.0\Kurse23_DataStruktur.sourcelink.json
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\bin\Debug\net8.0\Kurse23_DataStruktur.exe
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\bin\Debug\net8.0\Kurse23_DataStruktur.deps.json
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\bin\Debug\net8.0\Kurse23_DataStruktur.runtimeconfig.json
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\bin\Debug\net8.0\Kurse23_DataStruktur.dll
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\bin\Debug\net8.0\Kurse23_DataStruktur.pdb
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\obj\Debug\net8.0\Kurse23_DataStruktur.dll
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\obj\Debug\net8.0\refint\Kurse23_DataStruktur.dll
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\obj\Debug\net8.0\Kurse23_DataStruktur.pdb
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\obj\Debug\net8.0\Kurse23_DataStruktur.genruntimeconfig.cache
+C:\Users\Hamssa\Desktop\Kurse\Kurse23_DataStruktur\obj\Debug\net8.0\ref\Kurse23_DataStruktur.dll

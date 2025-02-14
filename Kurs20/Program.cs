@@ -1,5 +1,8 @@
-﻿using System;
+﻿
+
+using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Reflection.PortableExecutable;
 using System.Runtime.CompilerServices;
@@ -180,19 +183,43 @@ namespace Kurs20
         }
         static void Main(string[] args)
         {
-            Person person = new Person
-            {
-                name = "Khaled Alawedat",
-                age = 34,
-                currentDate = DateTime.Now
-            };
+            MyClass myClass = new MyClass();
+            myClass.DebugMethode();
+            myClass.NormalMethode();
+            myClass.LogTrace("Hallo Khaled, Wie geht es dir?");
 
-            SerializationAndDeserialization(person);
+            MyClass.Log("This log is for Khaled");
+
             Console.ReadKey();
         }
 
     }
+    public class MyClass
+    {
+        [Conditional("DEBUG")]
+        public void DebugMethode()
+        {
+            Console.WriteLine("Debug methode executed.");
+        }
+        [Conditional("Hamssa")]
+        public void NormalMethode()
+        {
+            Console.WriteLine("Hamssa Method executed.");
+        }
+        [Conditional("koko")]
+        public void LogTrace(string message)
+        {
+            Console.WriteLine("Trace: " + message);
+        }
 
+
+        [Conditional("Khaled")]
+        public static void Log(string message)
+        {
+            Console.WriteLine(message);
+        }
+    }
+    [Serializable]
     public class Person
     {
         public string name { get; set; }
